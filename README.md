@@ -1,8 +1,4 @@
 # task
-<<<<<<< HEAD
-Soding Task Test
->>>>>>>
-
 - Download this project from github with click button clone or download and then click 'Download ZIP' or
 - You can clone the folder with git bash
 
